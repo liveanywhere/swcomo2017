@@ -1,2 +1,0 @@
-# ComoStartupWeekend
-Subscription Housing Idea
