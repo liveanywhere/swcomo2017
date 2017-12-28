@@ -243,3 +243,7 @@ input {
    max-width: 55ch;
    border-radius: 2px;
 }
+
+.main-body-text {
+   max-width: 85ch;
+}
